@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+       <meta charset="utf-8">
+	     <title>MedWeb Contact Form</title>
+           <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">			  
+		       <link rel="stylesheet" type="text/css" href="960grid_12-2.css" />
+			     <link rel="stylesheet" type="text/css" href="suckerfishform.css" /> 
+		       <script src="Javacodehtml5shiv.js"></script>
+		     <script src="Suckerfish.js"></script> 
+           <script src="namenumbercheck.js"></script>		   		         			   	          
+</head>			   			  
+   <script>
+		alert("Greetings, Welcome!");		
+</script>
+<style type="text/css">	
+          	body {
+                  font: 13px/1.5 "Helvetica Neue", Arial, "Liberation Sans", FreeSans, sans-serif;
+				  background-color: rgb(185,179,175);  
+                  font-size: 16px; } 
+			h1 {
+	            font-size: 48px; }          
+			p { font-size: 16px; }                          
+			columns {
+                   display: table-cell;
+                   vertical-align: middle; }
+            grid_12, {
+	             border-radius: 5px;
+				 text-align: center;
+	              vertical-align: middle; }
+            comp {
+	              text-align: centre; }
+			input {
+				  font-size: 120%; }  
+            footer {
+	              text-align: center; } 
+			fieldset 
+	               {text-align: center;
+	                display: inline-block;
+	                vertical-align:center;
+	                width: 650px;
+	                border: 2px solid #00CED1;
+	                border-radius: 8px;
+	                padding: 25px;}
+            legend  
+	               {background-color: #90b4d6;
+	                border: double #00CED1;
+	                border-radius: 10px;
+	                padding: 10px 20px;
+	                text-transform: uppercase;
+	                font-style: bold;}
+            div
+	               {text-align: middle;
+	                vertical-align: middle;}
+            nav    {text-align: left;
+	                vertical-align: left;}					
+</style>
+</head>
+<body>
+           	 
+<div class="container_12 clearfix">
+	<div id="header" class="grid_12"> 
+	 <img src="contactus.jpg" alt="Contact Us" width="960" height="355" class="header" /> 
+       <nav>
+      <ul>
+     	<li class="active"><a href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/MedWebProject.html">Home</a></li>
+	   </ul>
+    </nav>
+  </div>
+</div>
+<div id="feature" class="grid_12">
+    <main class="container clear"> 
+      <!-- main body -->			
+				  <h1>Contact Us</h1>
+				     <h3>We value your opinions and comments about this website. Feel free to share your thoughts, report any problem with the website, or ask a question. Please fill out the form below & click "Submit".</h3>
+		</div>
+				<div class="clear"></div>
+			<br>			
+			        <form action="formhandler2.php" method="post" onSubmit="return validate(this)">
+			<fieldset>
+			         <legend>Your Contact Information:</legend>				   
+						       
+					    <label>Full Name</label><input type="text" name="name" size="30" maxlength="100" /><br />
+					    <label>Country: <input type="text" name="country" size="30" maxlength="100"></label><br />							
+					    <label>Email: <input type="email" name="email" size="30" maxlength="100"></label><br />				
+					    <label>Are you an earthling?What's 2+2? <input type="text" name="human" size="2" maxlength="10"></label><br />
+				
+	</fieldset>
+  <br />
+              <br>
+				 <fieldset>
+					     <legend>Your Most Reliable Health & Medical Source:</legend> 					       
+					       <label for="favorite-source">Which one of these sources were most useful to you?</label> <br />
+							      <p>
+                                     <select name="source" id="favorite-source">							  
+												<option value="caphis">CAPHIS</option>
+												<option value="familydoctor">Family doctor.org</option>
+												<option value="mayoclinic">Mayo Clinic</option>
+												<option value="medline">Medline</option>
+												<option value="medlinepubmed">Medline/PubMed</option>
+												<option value="medlineplus">Medline Plus</option>
+												<option value="webmd">WebMD</option>
+												
+									</select>	
+								</p>
+										<p>
+											  How often do you visit your most reliable source?<br />
+												<label><input type="radio" name="rating" value="everyday" />Everyday</label>
+												<label><input type="radio" name="rating" value="once a week" />Once a Week</label>
+												<label><input type="radio" name="rating" value="once a month" />Once a Month</label>
+										</p>
+					<p>
+						<label for="comments">Ask a questoin or Share additional comments here:</label><br />
+						  <textarea rows="8" cols="50" id="comments" name="comments"></textarea>
+						  					  
+				 </p>
+					<label><input type="checkbox" name="subscribe" checked="checked" />Sign me up to receive updates</label><br />
+					<input type="submit" value="Submit review" />
+				</fieldset>
+			</form>
+		  </div>
+		</ul>
+   </div>
+	  <div id="footer" class="grid_12">
+	    <figure class="center"><img class="btmspace-15" src="images/demo/worldmap.png" alt="">
+            <figcaption><a href="https://www.google.com/maps/@26.5590832,-81.9073758,14z?hl=en">Find Us With Google Maps &raquo;</a></figcaption>
+		  </figure>
+  <div id="copyright" class="clear">   
+    <p class="fl_left">Copyright &copy; 2015 - All Rights Reserved - MedWeb - Faezeh Jahanshiri</a></p>   
+  </div>
+</div>
+</body>
+</html>	
+		

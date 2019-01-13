@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MedWeb</title>
+    <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+		  <script src="Javacodehtml5shiv.js"></script>
+</head>
+<body id="top">
+
+<div class="wrapper row1">
+  <header id="header" class="clear">
+	<TABLE width=340 border="1">
+		
+		<td>
+			<div class="fl_right">
+				<img src="images/demo/MedWeblogo3.png" />
+		  </div>
+	   </td>
+	</table>
+  </header>
+</div>
+
+<div class="wrapper row2">
+  <div class="rounded">
+    <nav id="mainav" class="clear"> 
+      <ul class="clear">
+	    <li class="fl_left"><a href="MedWebProject.html">Home</a></li>
+		
+        
+        <li><a class="drop" href="#">Sources</a>
+          <ul>
+			  <li><a href="http://caphis.mlanet.org/">CAPHIS</a></li>
+			  <li><a href="http://familydoctor.org">Family Doctor</a></li>
+			  <li><a href="http://www.mayoclinic.org/">Mayo Clinic</a></li>
+			  <li><a href="http://www.medline.com/home.jsp">Medline</a></li>
+			  <li><a href="http://www.nlm.nih.gov/bsd/pmresources.html">Medline/PubMed</a></li>
+			  <li><a href="http://www.nlm.nih.gov/medlineplus/">Medline Plus</a></li>
+			  <li><a href="http://www.webmd.com/">WebMD</a></li>	
+          </ul>
+        
+		      <li><a class="drop" href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/medwebarticles.xml">Articles</a>
+		            	  
+		      <li><a class="drop" href="https://www.youtube.com/results?search_query=health+videos">Videos</a>
+		    
+	          <li><a class="drop" href="https://www.youtube.com/results?search_query=health+news+2015">Health News</a>			 
+			
+		      <li><a class="drop" href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/MedWebForm.html">Contact Us</a>
+		   </li>
+		</ul>
+     </nav>
+  </div>
+</div>
+
+<div class="wrapper row3">
+  <div class="rounded">
+    <main class="container clear"> 	
+<!-- main body -->       
+        <div class="group btmspace-30"> 
+<!-- Left Column -->
+        <div class="one_quarter first">         
+          <ul class="nospace">
+		    <li class="btmspace-15"><a href="http://infocus.nlm.nih.gov/2014/12/31/the-visible-human-project-at-20/"><em class="heading">Featured Article</em></a></li>
+			  <h3>The Visible Human Project at 20 (Posted by NLM in Focus / December 31, 2014)</h3>
+			  <li class="btmspace-15"><a href="http://infocus.nlm.nih.gov/2014/12/31/the-visible-human-project-at-20/"><em class="heading"></em><img class="borderedbox" src="images/demo/humananatomy.gif" alt=""></a></li>
+			  <p>This cross-section view shows the Visible Human Male (left), who debuted in 1994, and the Female
+			    (right), released in 1995. If something has been used regularly for 20 years, you might expect it
+				to show signs of aging. Not so for the Visible Human Project. The National Library of Medicine (NLM)
+				introduced the<a href="http://infocus.nlm.nih.gov/2014/12/31/the-visible-human-project-at-20/">Visible Human Project (VHP)</a>
+				in November 1994 and in doing so revolutionized our ability to view and understand human anatomy.
+				NLM’s Michael Ackerman, PhD, a biomedical engineer, came up with the idea for the visible humans in the 
+				1980s, at a time when the library’s long range plan included a recommendation to investigate the feasibility
+				of a biomedical images library. The VHP is a library of digital images representing the complete anatomy of 
+				a man and a woman. NLM funded researchers at the University of Colorado Health Sciences Center to create the 
+				images.Two cadavers were imaged from head to toe using computed tomography, magnetic resonance, and x-rays.
+				Then, the cadavers were frozen, milled a thin layer at a time, and digitally photographed. Thousands of people
+				worldwide have licensed the image dataset, free of charge, to study or create all kinds of things—artwork, 
+				prosthetics, educational materials, and surgical simulators, for example.</p>		    
+        </ul>        
+     </div> 
+<!-- / Left Column --> 
+
+<!-- Middle Column -->
+        <div class="one_half"> 
+          <h2><b>Welcome to MedWeb!</b></h2>
+            <ul class="nospace listing">
+              <li class="clear">
+                <div class="imgl borderedbox"><img src="images/demo/welcome.png" alt="">
+                  <p class="nospace btmspace-15"><a href="#"></a></p>
+                    <p>MedWeb Website is designed for you,  your family and friends. Produced by a student
+					   at SJSU, it brings you information about diseases, conditions, and wellness issues in 
+					   language you can understand. MedWeb offers reliable, up-to-date health information
+					   provided all in one place for your convenient, anytime, anywhere, for free. You can 
+					   use MedWeb to learn about the latest treatments, look up information on a drug or 
+					   supplement, find out the meanings of words, or view medical videos or illustrations. 
+					   You can also get links to the latest medical research on your topic or find out about 
+					   clinical trials on a disease or condition.Health professionals and consumers alike can
+					   depend on it for information that is authoritative and up-to-date. Please use the form 
+					   at the top of the page to send us your comments.</p>
+                </li>
+                    
+					<li class="clear">
+                    <p><a href="http://www.health.com/health/gallery/0,,20488762,00.html"><b>Latest News &amp; Events</b></a></p>
+					<div class="imgl borderedbox"><img src="images/demo/halthyheart.gif" alt=""></div>
+					<h3>Protect Your Heart</h3>
+					<p>Although many people with type 2 diabetes worry about losing their vision or having an amputation, 
+			           the greater risk is to the heart and brain. About 65% of people with type 2 diabetes die of heart 
+				       disease or stroke. They are two to four times more likely to die of heart disease than people without
+				       diabetes. "When someone does get a diagnosis of diabetes, they probably have had prediabetes for as long
+				       as 10 years," says Gerald Bernstein, MD. "By the time their diagnosis is made, their risk for cardiovascular 
+				       disease is extremely high. And then 10 years later, they will have their first cardiovascular event."</p>
+			     </li>   
+            
+			         <li class="clear">
+                 <div class="imgl borderedbox"><img src="images/demo/healthcare.gif" alt=""></div>
+               <p class="nospace btmspace-15"><a href="http://www.nydailynews.com/life-style/health">OBAMACARE WORKS: For a whopping
+				 92% of New Yorkers surveyed, new health coverage has been satisfactory — at least compared to the bleak alternative .</a></p>
+              <p>Most people who signed up for health insurance plans through Obamacare last year said they were ‘completely’ or ‘somewhat satisfied’ with their health insurance, according to a survey by the New York State of Health Foundation. But for those who want to switch plans, the current open enrollment period is the time. The Daily News reached out to several New Yorkers for their stories.</p>
+			    <a href="http://www.nydailynews.com/new-york/new-yorkers-share-obamacare-experiences-advice-article-1.2013278">Read More...</a>
+           </li>
+         </ul>
+          <p class="right"><a href="http://www.medline.com/about-us/healthcare-is-changing/">Click here to view all of the latest news and events &raquo;</a></p>
+          
+        </div>
+     <!-- / Middle Column --> 
+   <!-- Right Column -->
+        <div class="one_quarter sidebar"> 
+         
+          <div class="sdb_holder">
+            <h6><b>Featured Videos</b></h6>
+			  <div class="btmspace-15"><a "><em class="heading"></em>
+			 <li class="clear">
+                <iframe width="220" height="225" src="https://www.youtube.com/embed/jKikTtcqqzs" frameborder="0" allowfullscreen></iframe>
+			 <li class="clear">
+                <iframe width="220" height="225" src="https://www.youtube.com/embed/H9zg3Tk69xI" frameborder="0" allowfullscreen></iframe>
+             </li>
+               <p><a href="http://www.sciencedaily.com/news/health_medicine/ ">View More Videos Here</a></p>
+            </div>
+          </div>
+		  
+		    <li class="clear">
+			  <h6><b>Health quote of the day:</b</h6>
+                <div class="imgl borderedbox"><img src="images/demo/cartoon1.gif" alt=""></div>
+                 <p class="nospace btmspace-15"><a href="http://www.nydailynews.com/entertainment/comics">He doesn't need a naptime story!</a></p>
+                  <p>No day is so bad it can't be fixed with a nap. --Carrie Snow</p>
+            </li>
+			
+			  <div id="twitter" class="group btmspace-15">
+        <div class="one_quarter first center"><a href="https://twitter.com/account/confirm_email/FJpari01/5E9HE-9594B-141429"><i class="fa fa-twitter fa-3x"></i><br>#</a></div>
+		<p> Follow Us On Twitter</p>
+            </ul>
+          </div>
+        </div>
+		      
+   <!-- / Right Column --> 
+      </div>
+ <!-- / main body -->
+      <div class="clear"></div>
+    </main>
+  </div>
+</div>  
+  <div class="wrapper row4">
+    <div class="rounded">
+      <footer id="footer" class="clear"> 
+      
+        <div class="one_third first">
+          <figure class="center"><img class="btmspace-15" src="images/demo/worldmap.png" alt="">
+            <figcaption><a href="https://www.google.com/maps/@26.5590832,-81.9073758,14z?hl=en">Find Us With Google Maps &raquo;</a></figcaption>
+    </figure>
+  </div>
+      <div class="one_third">
+        <address>
+        WebMed<br>
+        Address<br>
+        City/State<br>
+        Postcode/Zip<br>
+        <br>
+        <i class="fa fa-phone pright-10"></i> xxxx xxxx xxxxxx<br>
+        <i class="fa fa-envelope-o pright-10"></i> <a href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/MedWebProject.html">MedWeb</a>
+        </address>
+      </div>
+      <div class="one_third">
+        <p class="nospace btmspace-10">Stay Up to Date With What's Happening</p>
+		
+        <ul class="faico clear">
+		  <li><a class="faicon-google+" href="https://plus.google.com/u/0/+FaezehJahanshiri/posts"><i class="fa fa-google"></i></a></li>
+          <li><a class="faicon-twitter" href="https://twitter.com/account/confirm_email/FJpari01/5E9HE-9594B-141429"><i class="fa fa-twitter"></i></a></li>
+          <li><a class="faicon-linkedin" href="https://www.linkedin.com/hp/?dnr=DgMTWFEtnjH-POdpD1IBWaK5gUZ-r8N0VcCm"><i class="fa fa-linkedin"></i></a></li>
+          <li><a class="faicon-rss" href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/RSSsubscriptions.html"><i class="fa fa-rss"></i></a></li>
+		  
+        </ul>
+        <form class="clear" method="post" action="formhandler2.php">
+          <fieldset>
+            <legend>Subscribe To Our Newsletter:</legend>
+            <input type="text" value="" placeholder="Enter Email Here&hellip;">
+            <button class="fa fa-sign-in" type="submit" title="Sign Up"><em>Sign Up</em></button>
+          </fieldset>
+        </form>
+      </div>
+             
+    </footer>
+  </div>
+</div>
+      
+  <div class="wrapper row5">
+    <div id="copyright" class="clear">  
+      <p><a href="#top"><b>back to top</b></a></p>	
+       <p class="fl_left">Copyright &copy; 2015 - All Rights Reserved - Faezeh Jahanshiri - <a href="#">MedWeb</a></p> 
+</div>
+</div>
+</body>
+</html>
