@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en-US" meta charset="utf-8"/> 
+<head>
+			
+	    <title>Assignments</title>
+		<link rel="stylesheet" type="text/css" href="css/960_12_col.css" />
+		<link rel="stylesheet" type="text/css" href="Suckerfish.html" />
+        <style type="text/css">
+			* {
+				font-family: , Times New Roman, serif;
+				font-weight:bold;
+				color: #665544;
+				text-align: center;}
+			
+			#nav, #feature, article, #footer {
+				background-color: rgb(245,176,204) ;
+				margin-top: 20px;
+				padding: 10px 0px 5px 0px;}
+		     }
+				
+			#feature, .article {
+				width: 760px; height: 640px;}
+			li {
+				display: inline;
+				padding: 5px;}
+			    width="400" height="249" class="logo" }
+
+            body {
+            font-family: , Helvetica, sans-serif;
+            font size: 16pt;
+            font-weight:bold; 
+             }
+            #nav, #nav ul { /* all lists */
+	        padding: 0;
+	        margin: 0;
+	        list-style: none;
+	        line-height: 1;
+             }
+            #nav a {
+	        display: block;
+	        width: 10em;
+             }
+            #nav li { /* all list items */
+	        float: left;
+	        width: 10em; /* width needed or else Opera goes nuts */
+             }
+            #nav li ul { /* second-level lists */
+	        position: absolute;
+	        background: orange;
+	        width: 10em;
+	        left: -999em; /* using left instead of display to hide menus because display: none isn't read by screen readers */
+             }
+            #nav li ul ul { /* third-and-above-level lists */
+	        margin: -1em 0 0 10em;
+             }
+            #nav li:hover ul ul, #nav li:hover ul ul ul, #nav li.sfhover ul ul, #nav li.sfhover ul ul ul {
+	        left: -999em;
+             }
+            #nav li:hover ul, #nav li li:hover ul, #nav li li li:hover ul, #nav li.sfhover ul, #nav li li.sfhover ul, #nav li li li.sfhover ul { /* lists nested under hovered list items */
+	        left: auto;
+             }
+            #content {
+        	clear: left;
+	        color: #ccc;
+             }
+</style>
+</head>
+
+<body>
+              <div class="container_12 clearfix">
+			  <div id="header" class="grid_12">
+			  <img src="YouTube-logo4full_color.jpg" />
+              <h1 id="top"><i>The World's Second  Most Popular Website</i></h1>						
+		  
+		  
+              		
+     <ul id="nav"> 
+		      		    
+					   <li><a href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/Assignments.html"><b>Home</b></a>
+						
+					   <li><a href="https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA"><b>Popular on YouTube</b></a>
+				<ul>
+				       
+						   <li><a href="https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA/videos">Videos</a></li>
+						   <li><a href="ttps://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA/playlists">Playlists</a></li>
+						   <li><a href="https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA/channels">Popular Channels</a></li>
+		   </ul>		
+						
+					   <li><a href="https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ/channels"><b>Channels</b></a>
+			    <ul>	   
+					   
+				          <li><a href="https://www.youtube.com/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ">Music</a></li>
+					      <li><a href="https://www.youtube.com/channel/UCEgdi0XIXXZ-qJOFPf4JSKw">Sports</a></li>
+					      <li><a href="https://www.youtube.com/channel/UCczhp4wznQWonO7Pb8HQ2MQ">Movies</a></li>
+					      <li><a href="https://www.youtube.com/channel/UCl8dMTqDrJQ0c8y23UBu4kQ">TV Shows</a></li>
+					      <li><a href="https://www.youtube.com/channel/UC3yA8nDwraeOfnYfBWun83g?spfreload=10">Education</a></li>
+					      <li><a href="https://www.youtube.com/channel/UCYfdidRxbB8Qhf0Nx7ioOYw">News</a></li>
+				          <li><a href="https://www.youtube.com/channel/UCOpNcN46UbXVtpKMrmU4Abg">Gaming</a></li>
+					      <li><a href="https://www.youtube.com/channel/SBAaOjE-GIlRI">Live</a></li>
+		 </ul>
+				   
+				          <li><a href="http://www.youtube.com/yt/press/statistics.html"><b>Statistics on YouTube</b></a>
+						  
+						  <li><a href="http://www.screencast.com/t/Zcyr3ctCdmgE"><b>Video Presentation</b></a>  
+				 
+		
+				          <li><a href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/Exercises.html"><b>Lib240Exercises</b></a>
+						 
+			      <ul>
+				  
+				         <li><a href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/RSSsubscriptions.html">RSS Subscriptions</a></li>
+				         <li><a href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/Galaxies.xml">Galaxy Table</a></li>			  
+				         <li><a href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/exercise4b.html">Exercise4b<a/></li>
+						 <li><a href="fjahanshiritheweb.txt" target="_blank">The Web(New Window)</a></li>
+						 <li><a href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/myfirstwebpage.html">My First Webpage</a><li>
+						 <li><a href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/myfirstwebpage2.html">XHTML Version</a><li>
+						 <li><a href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/mostpopularwebsite.html">Most Popular Website</a></li>
+						 <li><a href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/mostpopularwebsite2.html">XHTML Version</a></li>
+						 <li><a href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/Myfavoritewebsite-240.html">My Favorite Website</a></li>
+		       </ul>	
+                         <li><a href="http://senna.sjsu.edu/aparsons/sp15_240-12/fjahanshiri/Form_contactus.html"><b>Contact Us</b></a>			   
+	  </li>
+		  
+   </ul>
+  
+ </div>
+   
+            <div id="feature" class="grid_6">
+		     <img src="library2.015.jpg" alt="Library 2.015"
+				 width="950" height="270" class="feature" /> 
+				 <p>The Emerging Future: Technology and Learning Join us on April 30th, 2015 for the Library 2.015 Spring Summit - The Emerging Future: Technology and Learning, a half-day conversation about technology issues and trends 
+				    in the future of library and information services. 
+				    The Spring Summit will be held from 12pm - 3pm US Pacific / 3pm - 6pm US Eastern, and is designed to complement the fifth annual Library 2.015 Worldwide Virtual Conference on October 20th, 2015.  Facebook | Twitter | Google+ 
+                    The technology landscape changes rapidly, and these changes have economic, social, and ethical significance for individuals, organizations, and the entire world. The Emerging Future: Technology and Learning brings focus
+					to the planning skills that are needed, the issues that are involved, and the current trends as we explore the potential impact of technological innovations.</p>
+		</div>
+			
+			<div class="article grid_4">
+				<h3><b>About YouTube</b></h3>
+			<p>According to <a href="http://www.ebizmba.com/articles/most-popular-websites">eBizMBA</a>, Google is the most
+			   popular website in the world,followed by YouTube which is my most favorite website.
+			   YouTube is a video-sharing website created by three PayPal employees in 2005, and
+			   bought by Google in 2006 for $1.65 billion. This site allows users to upload, view,
+			   and share videos, using Adobe Flash and HTML5 technology to display a wide variety 
+			   of user-generated and corporate media videos. Available content includes TV and video/music 
+			   clips,video blogging, and educational videos which is the reason I became a frequent visitor.
+			   YouTube defaults to HTML5- The benefits of HTML5 extend beyond web browsers, and it's now also
+			   used in smart TVs and other streaming devices. Here are a few key technologies that have enabled 
+			   this critical step forward. YouTube enables everyone to share their videos with the world, whether 
+			   uploading pre-recorded videos or broadcasting live. WebRTC allows us to build on the same technology 
+			   that enables plugin-free Google Hangouts to provide broadcasting tools from within the browser.</p>
+
+		</div>
+				
+			
+			<div class="article grid_4">
+				<h3><b>YouTube Channels</b></h3>
+				<p>More than a million advertisers are using Google ad platforms, the majority of which are small businesses
+                   85% of our TrueView in-stream ads are skippable Google Preferred has been a huge success - They have secured
+				   upfront commitments from many of the top agencies including OMG, Digitas, IPG, Carat and SMG, and sold out
+				   the majority of our product offering. They've been investing in their creators- Top YouTube creators were found
+				   to be more popular than mainstream celebrities among U.S. teenagers.
+                   Launched multimedia promotional campaigns highlighting top creators on YouTube in 7 countries around the world, 
+				   increasing awareness for those featured by up to 4x. Of the 100+ channels they've funded in 2011 — 86 of those 
+				   channels are in the top 1% of all YouTube channels, 25 have 1+ million subscribers, and collectively they’re 
+				   getting over 3/4 billion views a month More than a million channels in dozens of countries are earning revenue 
+				   from the YouTube Partner Program, and thousands of channels are making six figures per year.
+                   YouTube has invested tens of millions of dollars into Content ID, their copyright management system. The result is that
+				   since 2007 they've paid out over $1 billion to partners who have chosen to monetize their claims using Content ID.
+				   </p>
+			</div>
+			
+			
+			<div class="article grid_4">
+				<h3><b>My Favorite Channels</b></h3>
+			
+			<ul>
+				<li><a href="https://www.youtube.com/watch?v=A4itwQ0bb_U" target="_blank"><b>Educational Channels</b></a></li>
+				<li><a href="https://www.youtube.com/watch?v=vA-y1GpCMaQ&index=26&list=PL0597229B47AC711B" target="_blank"><b>Music</b></a></li>
+				<li><a href="https://www.youtube.com/watch?v=_17md-gPbaY" target="_blank"><b>News</b></a></li>
+				<li><a href="https://www.youtube.com/watch?v=4qisHfpI5QE" target="_blank"><b>How To Videos</li>
+				<li><a href="http://www.youtube.com/embed/5RAaW_1FzYg?autoplay=1&modestbranding=1&rel=0&showinfo=0" target="_blank"><b>Best of YouTube</b></a></li>
+				<li><a href="https://www.youtube.com/channel/UCczhp4wznQWonO7Pb8HQ2MQ" target="_blank"><b>Movies</b></a></li>
+			</ul>
+		 </div>	
+		
+			    		   
+		   <div id="footer" class="grid_12">
+		         <a href="https://www.youtube.com/watch?v=exceR_Yk3lM"><b>Link to Video</b></a>
+				<img src="YouTubeScreenshot5.jpg" alt="Andromeda Galaxy + Carl Sagan"
+			width="960" height="860" class="feature" /> 
+			
+			     
+			     <img src="giftoflove.jpg" alt="Rumi"
+				 width="300" height="290" class="article" /> 
+		         <a href="https://www.youtube.com/watch?v=X-idP23bHCg"><b>Link to Video</b></a>
+		 </div>
+		
+		
+			   <p><a href="#top"><b>Top of Page</b></a></p>	 
+			   
+		</div>
+		</div><!-- .container_12 -->
+	</body>
+</html>
+
+    <Readability Statistics
+     Flesch Reading Level           23.0
+     Flesch-Kincaid Grade Level     16.5>
